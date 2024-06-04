@@ -14,7 +14,7 @@
 
 :key: In early 2019, I found myself leading a sizeable online community of social gamers. Through the duration of the COVID-19 pandemic, this community grew and acted as a social hub for those folks to hang-out, laugh, and unwind over those rough years. Although establishing this community was largely a personal endeavor, I believe the experience granted me a powerful set of organizational and leadership tools that I continue to apply in my daily life. This community remains a staple in my life and I'm proud to have had a part in its growth and management.
 
-🔬 In more recent years, I've explored a general but deep interest in technology and am currently pursuing a technical diploma in Networking at [Mohawk College](https://www.mohawkcollege.ca/). Although my CS experience is admittedly limited, I am eager to practice and improve on the skills I'm rapidly developing. I believe I bring a fresh perspective to the field and am already applying my studies to augment and optimize my workflow.
+🔬 In more recent years, I've explored a general but deep interest in technology and am currently pursuing a technical diploma in Networking at [Mohawk College](https://www.mohawkcollege.ca/). Although my CS experience is admittedly limited, I am eager to practice and improve on the skills I'm developing. I believe I bring a fresh perspective to the field and am already applying my studies to augment and optimize my workflow.
 
 ### Skills
 
