@@ -17,6 +17,6 @@ This community became a lifeline for many of its members during the COVID-19 pan
 🔬 I am currently pursuing a technical diploma in Networking at [Mohawk College](https://www.mohawkcollege.ca/); and I'm eager to practice and improve on the skills I'm rapidly developing. 
 I believe I bring a fresh perspective to the field and am already applying my studies to augment and optimize my workflow.
 
-### Skills
+### Current Fields of Study:
 
 :cd: Virtualization, HTML, CSS, Python, Network Design, Unix Systems, and Server Administration
