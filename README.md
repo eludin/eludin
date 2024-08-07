@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Antonio Giacchetti 
 
-## :computer: CS Student  |  :camera: Visual Artist  |  :space_invader: Gaming Enthusiast
+## :computer: CSIT Student  |  :camera: Visual Artist  |  :space_invader: Gaming Enthusiast
 
 ### About Me
 
-:rocket: I'm a CS student with a background in visual art. I'm passionate about writing, design, and technology; and I hope to pursue opportunties where I can blend my creative experiences to come up with innovative solutions for the problems of today, and tomorrow.
+:rocket: I'm a CSIT student with a background in visual art. I'm passionate about writing, design, and technology; and I hope to pursue opportunties where I can blend my creative experiences to come up with innovative solutions for the problems of today, and tomorrow.
 
 ### Experience
 
