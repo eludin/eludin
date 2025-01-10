@@ -14,7 +14,7 @@ After graduating, I operated as a freelance designer, and personal assistant to 
 :key: In early 2019, I founded a social community for gamers called "Maledict". At its peak, this community became a social hub for over 40 adults to hang-out, laugh, and unwind at the end of the day. 
 This community became a lifeline for many of its members during the COVID-19 pandemic, and I'm proud to have had a part in its leadership, organization, and management. 
 
-🔬 I am currently pursuing a technical diploma in Networking at [Mohawk College](https://www.mohawkcollege.ca/); and I'm eager to practice and improve on the skills I'm rapidly developing. 
+🔬 I am currently pursuing an advanced Network Design and Security Analyst diploma at [Mohawk College](https://www.mohawkcollege.ca/); and I'm eager to practice and improve on the skills I'm rapidly developing. 
 I believe I bring a fresh perspective to the field and am already applying my studies to augment and optimize my workflow.
 
 ### Current Fields of Study:
