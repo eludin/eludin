@@ -19,4 +19,4 @@ I believe I bring a fresh perspective to the field and am already applying my st
 
 ### Current Fields of Study:
 
-:cd: UNIX Systems, Server Administration, Network Design and Management, Virtualization, BASH, Python, HTML, and CSS
+:cd: UNIX Systems, Server Administration, Cloud Solutions, Virtualization, Network Design and Management, BASH, Python, HTML, and CSS
