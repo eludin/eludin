@@ -9,7 +9,7 @@
 ### Experience
 
 🎓 I graduated from [OCAD University](https://www.ocadu.ca/) in 2017, with a BFA in Photography & an English Minor. I've participated in over a dozen exhibitions throughout Canada, Germany, and Finland. 
-After graduating, I operated as a freelance designer, and personal assistant to [Barbara Astman](https://www.corkingallery.com/artists/49-barbara-astman/) for several years. 
+After graduating, I operated as a freelance designer, and personal assistant to Governor General's Award winning artist [Barbara Astman](https://www.corkingallery.com/artists/49-barbara-astman/) for several years. 
 
 :key: In early 2019, I founded a social community for gamers called "Maledict". At its peak, this community became a social hub for over 40 adults to hang-out, laugh, and unwind at the end of the day. 
 This community became a lifeline for many of its members during the COVID-19 pandemic, and I'm proud to have had a part in its leadership, organization, and management. 
